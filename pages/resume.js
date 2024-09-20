@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Cursor from "../components/Cursor";
 import Header from "../components/Header";
-import ProjectResume from "../components/ProjectResume";
+// import ProjectResume from "../components/ProjectResume";
 import Socials from "../components/Socials";
 import Button from "../components/Button";
 import { useTheme } from "next-themes";
@@ -53,7 +53,7 @@ const Resume = () => {
               <div className="mt-2">
                 <Socials />
               </div>
-              <div className="mt-5">
+              {/** <div className="mt-5">
                 <h1 className="text-2xl font-bold">Experience</h1>
 
                 {resume.experiences.map(
@@ -67,7 +67,7 @@ const Resume = () => {
                     ></ProjectResume>
                   )
                 )}
-              </div>
+              </div> **/}
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Education</h1>
                 <div className="mt-2">
