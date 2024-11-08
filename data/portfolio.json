@@ -24,62 +24,62 @@
   "projects": [
     {
       "id": "1",
-      "title": "Basic URL Shortner API",
-      "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1488272690691-2636704d6000?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/url-shortner"
+      "title": "bg.removal",
+      "description": "Full Stack Website",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731030258/projects-screensort/fn27bvkf4oz5g6iladch.png",
+      "url": "https://github.com/subx6789/bg-removal"
     },
     {
       "id": "2",
-      "title": "Simple Weather Tracker Backend",
-      "description": "REST API",
-      "imageSrc": "https://plus.unsplash.com/premium_photo-1664303017917-71ebeb42343d?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/weather-tracker-go"
-    },
-    {
-      "id": "3",
-      "title": "Quiz App",
-      "description": "CLI Application",
-      "imageSrc": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/quiz-app-go"
-    },
-    {
-      "id": "4",
-      "title": "E-book Management",
+      "title": "E-Book Management API",
       "description": "REST API",
       "imageSrc": "https://images.unsplash.com/photo-1603406136476-85d8c3ec76a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/subx6789/ebook-rest-api"
     },
     {
-      "id": "5",
-      "title": "Basic Social Media Backend",
+      "id": "3",
+      "title": "Social Media API",
       "description": "REST API",
       "imageSrc": "https://plus.unsplash.com/premium_photo-1683492749168-ee69f4d90193?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "url": "https://github.com/subx6789/social-media-website"
     },
     {
-      "id": "6",
-      "title": "Simple Course Selling Website Backend",
+      "id": "4",
+      "title": "URL Shortner",
       "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/course-selling-website"
+      "imageSrc": "https://images.unsplash.com/photo-1488272690691-2636704d6000?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/subx6789/url-shortner"
+    },
+    {
+      "id": "5",
+      "title": "Where in the world?",
+      "description": "Website",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731031786/projects-screensort/az52tzczevqpb2xqihll.png",
+      "url": "https://github.com/subx6789/CountryWebsite?tab=readme-ov-file"
+    },
+    {
+      "id": "6",
+      "title": "Weather Tracker",
+      "description": "Website",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731032547/projects-screensort/w9wopcwmiof7m1tvdq0t.png",
+      "url": "https://github.com/subx6789/AdvancedWeatherApp"
     }
   ],
-  "aboutpara": "I’m a passionate final-year college student with a strong foundation in software development, focusing on backend technologies. I have experience with Go, JavaScript (Node.js), Python, and Java, and I’m eager to apply my skills to build efficient, scalable solutions. I’m enthusiastic about learning and contributing to impactful projects that solve real-world problems.",
+  "aboutpara": "I’m a passionate final-year college student with a strong foundation in software development. I have experience with JavaScript, Golang, Python, and Java, and I’m eager to apply my skills to build efficient, scalable solutions. I’m enthusiastic about learning and contributing to impactful projects that solve real-world problems.",
   "resume": {
     "tagline": "👋  I'm a software developer.",
-    "description": "I specialize in building efficient backend systems and have a solid foundation in Go, JavaScript, Python, and Java. With experience in React and Node.js, I’m committed to creating scalable and user-friendly applications.",
+    "description": "Motivated final-year computer applications student with a strong foundation in software development. I am seeking an internship opportunity to apply my skills in the industry",
     "education": {
       "universityName": "Techno India University",
       "universityDate": "2022-2025",
       "universityPara": "I am currently pursuing my Bachelor's degree in Computer Applications at Techno India University. Expected to graduate in 2025."
     },
-    "languages": ["Go", "Javascript", "Java", "Python"],
+    "languages": ["JavaScript", "Golang", "Java", "Python"],
     "frameworks": [
-      "Gorilla Mux",
       "Node.js",
       "Express.js",
       "React",
+      "Gorilla Mux",
       "React Native",
       "Tailwind CSS"
     ],
