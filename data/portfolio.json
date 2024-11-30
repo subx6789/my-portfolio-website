@@ -3,11 +3,11 @@
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Subhajit Sarkar - curious",
   "headerTaglineThree": "software developer",
-  "headerTaglineFour": " based in West Bengal, India.",
+  "headerTaglineFour": " based in India.",
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
-  "showResume": true,
+  "showResume": false,
   "socials": [
     {
       "id": "1",
@@ -24,51 +24,56 @@
   "projects": [
     {
       "id": "1",
-      "title": "bg.removal",
-      "description": "Full Stack Website",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731030258/projects-screensort/fn27bvkf4oz5g6iladch.png",
-      "url": "https://github.com/subx6789/bg-removal"
+      "title": "APEX Dashboard",
+      "description": "Full Stack Dashboard",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956381/projects-screensort/rubqcsx8aj42l6avxhv5.png",
+      "url": "https://apex-dashboard.onrender.com"
     },
+
     {
       "id": "2",
-      "title": "E-Book Management API",
-      "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1603406136476-85d8c3ec76a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/ebook-rest-api"
+      "title": "bg.removal",
+      "description": "Full Stack Website",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956382/projects-screensort/gavafle9mhe2o89bocya.png",
+      "url": "https://github.com/subx6789/bg-removal"
     },
+
     {
       "id": "3",
-      "title": "Social Media API",
-      "description": "REST API",
-      "imageSrc": "https://plus.unsplash.com/premium_photo-1683492749168-ee69f4d90193?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/social-media-website"
-    },
-    {
-      "id": "4",
-      "title": "URL Shortner",
-      "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1488272690691-2636704d6000?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "url": "https://github.com/subx6789/url-shortner"
-    },
-    {
-      "id": "5",
       "title": "Where in the world?",
       "description": "Website",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731031786/projects-screensort/az52tzczevqpb2xqihll.png",
-      "url": "https://github.com/subx6789/CountryWebsite?tab=readme-ov-file"
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956381/projects-screensort/w8edm5nfetdtmnpxnc0e.png",
+      "url": "https://web-country-info.netlify.app/"
     },
+
     {
-      "id": "6",
+      "id": "4",
       "title": "Weather Tracker",
       "description": "Website",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1731032547/projects-screensort/w9wopcwmiof7m1tvdq0t.png",
-      "url": "https://github.com/subx6789/AdvancedWeatherApp"
+      "imageSrc": "https://images.unsplash.com/photo-1515600648368-a14955f2c9b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://incredible-torte-e9db51.netlify.app/"
+    },
+
+    {
+      "id": "5",
+      "title": "E-Book Management API",
+      "description": "REST API",
+      "imageSrc": "https://images.unsplash.com/photo-1455541504462-57ebb2a9cec1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/subx6789/ebook-rest-api"
+    },
+
+    {
+      "id": "6",
+      "title": "Social Media API",
+      "description": "REST API",
+      "imageSrc": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/subx6789/social-media-website"
     }
   ],
-  "aboutpara": "I’m a passionate final-year college student with a strong foundation in software development. I have experience with JavaScript, Golang, Python, and Java, and I’m eager to apply my skills to build efficient, scalable solutions. I’m enthusiastic about learning and contributing to impactful projects that solve real-world problems.",
+  "aboutpara": "I’m a passionate final-year college student with a strong foundation in software development and I’m eager to apply my skills to build efficient, scalable solutions. I’m enthusiastic about learning and contributing to impactful projects that solve real-world problems.",
   "resume": {
-    "tagline": "👋  I'm a software developer.",
-    "description": "Motivated final-year computer applications student with a strong foundation in software development. I am seeking an internship opportunity to apply my skills in the industry",
+    "tagline": "",
+    "description": "",
     "education": {
       "universityName": "Techno India University",
       "universityDate": "2022-2025",
