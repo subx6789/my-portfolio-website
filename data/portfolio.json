@@ -26,7 +26,7 @@
       "id": "1",
       "title": "APEX Dashboard",
       "description": "Full Stack Dashboard",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956381/projects-screensort/rubqcsx8aj42l6avxhv5.png",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110009/projects-screensort/oc8tj2zz0xppys0epov0.png",
       "url": "https://apex-dashboard.onrender.com"
     },
 
@@ -34,7 +34,7 @@
       "id": "2",
       "title": "bg.removal",
       "description": "Full Stack Website",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956382/projects-screensort/gavafle9mhe2o89bocya.png",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110008/projects-screensort/wz8ajmjapm05jejohuqe.png",
       "url": "https://bg-removal-v1.vercel.app/"
     },
 
@@ -42,7 +42,7 @@
       "id": "3",
       "title": "Where in the world?",
       "description": "Website",
-      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1732956381/projects-screensort/w8edm5nfetdtmnpxnc0e.png",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110008/projects-screensort/l3l4d67cul0w3gvjqlcm.png",
       "url": "https://web-country-info.netlify.app/"
     },
 
@@ -50,7 +50,7 @@
       "id": "4",
       "title": "Weather Tracker",
       "description": "Website",
-      "imageSrc": "https://images.unsplash.com/photo-1515600648368-a14955f2c9b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110008/projects-screensort/r3pth9ipeg2abckblzm5.png",
       "url": "https://incredible-torte-e9db51.netlify.app/"
     },
 
@@ -58,7 +58,7 @@
       "id": "5",
       "title": "E-Book Management API",
       "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1455541504462-57ebb2a9cec1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110008/projects-screensort/ma3kfamjxax6bxatttg5.png",
       "url": "https://github.com/subx6789/ebook-rest-api"
     },
 
@@ -66,7 +66,7 @@
       "id": "6",
       "title": "Social Media API",
       "description": "REST API",
-      "imageSrc": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageSrc": "https://res.cloudinary.com/davmbisny/image/upload/v1733110008/projects-screensort/ljhmlhnfur7jacb6dnek.png",
       "url": "https://github.com/subx6789/social-media-website"
     }
   ],
