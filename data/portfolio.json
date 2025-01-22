@@ -79,7 +79,7 @@
       "universityDate": "2022-2025",
       "universityPara": "I am currently pursuing my Bachelor's degree in Computer Applications at Techno India University. Expected to graduate in 2025."
     },
-    "languages": ["JavaScript", "Golang", "Java", "Python"],
+    "languages": ["JavaScript", "Golang", "Java"],
     "frameworks": [
       "Node.js",
       "Express.js",
